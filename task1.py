@@ -28,6 +28,6 @@ def remove_first_occurance(input_string):
 
 input_string = input("please enter a string: ")
 output = retain_first_occurance(input_string)
-print("Output String is: " + output)
+print("Output for version 1 is: " + output)
 output1 = remove_first_occurance(input_string)
-print("Output String is: " + output1)
+print("Output for version 2 is: " + output1)
